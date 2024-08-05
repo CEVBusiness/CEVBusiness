@@ -1,8 +1,10 @@
 ## Ola time 👋
 
-**CEVBusiness/CEVBusiness** is a ✨ _special_ ✨
+**CEV Business**
+<h1>Equipe de Inteligência Competitiva</h1>
+<p>PowerBi<p> <p>Python<p> <p>App Scrip<p>
 
-                                                <h1>Equipe Inteligência Competitiva.</h1>
+  
 - 🔭 Grupo Educacional CEV
-- 📊 Power bi
+- 📊 *Análise de dados*
 
